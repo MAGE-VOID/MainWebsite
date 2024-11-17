@@ -1,0 +1,32 @@
+{
+  "introduction": "Introduction",
+
+  "-- How To Start": {
+    "type": "separator",
+    "title": "How To Start"
+  },
+  "contents": "Table of Contents",
+  "infrastructure": "Infrastructure",
+  "brokers": "Best Brokers",
+
+  "-- Specifications": {
+    "type": "separator",
+    "title": "Specifications"
+  },
+
+  "another": "Another Page",
+
+  "-- More": {
+    "type": "separator",
+    "title": "More"
+  },
+
+  "about-us": "About Us",
+  "assistance": "Assistance and Policies",
+
+  "contact": {
+    "title": "Contact ↗",
+    "href": "https://twitter.com",
+    "newWindow": true
+  }
+}
